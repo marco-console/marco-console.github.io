@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis on Marco Console Personal Page</title>
-    <link>https://marco-console.github.io/tags/thesis/</link>
+    <link>http://localhost:1313/tags/thesis/</link>
     <description>Recent content in Thesis on Marco Console Personal Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <atom:link href="https://marco-console.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curiculum Vitae Highlights</title>
-      <link>https://marco-console.github.io/cv/</link>
+      <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/cv/</guid>
+      <guid>http://localhost:1313/cv/</guid>
       <description>Apointments From 2022 to date: Ricercatore a Tempo Determinato di Categoria B (Tenured Assistant Professor). Dipartimento di Ingegneria Informatica, Automatica e Gestionale. Sapienza, University of Rome From 2020 to 2022: Ricercatore a Tempo Determinato di Categoria A (Non-Tenured Assistant Professor). Dipartimento di Ingegneria Informatica, Automatica e Gestionale. Sapienza, University of Rome From 2016 to 2020: Research Associate. School of Informatics. University of Edinburgh. From 2013 to 2016: Phd Student in Engineering in Computer Science Dipartimento di Ingegneria Informatica, Automatica e Gestionale.</description>
     </item>
     <item>
       <title>Student Projects and Thesis Work</title>
-      <link>https://marco-console.github.io/teaching/theses/</link>
+      <link>http://localhost:1313/teaching/theses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/teaching/theses/</guid>
+      <guid>http://localhost:1313/teaching/theses/</guid>
       <description>Part of my role as a teacher involves supervising student projects and thesis work. I greatly value this activity as it allows me to collaborate closely with students, guiding them as they apply their knowledge, develop new skills, and contribute to meaningful research. Additionally, a research-oriented thesis is also a great opportunity to build enough knowledge to start a PhD.&#xA;Possible topics to explore together are the following (in no particular order):</description>
     </item>
   </channel>

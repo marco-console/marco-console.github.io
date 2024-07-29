@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marco-console.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/tags/aifil/</loc>
+    <loc>http://localhost:1313/tags/aifil/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/tags/ay2425/</loc>
+    <loc>http://localhost:1313/tags/ay2425/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/cv/</loc>
+    <loc>http://localhost:1313/cv/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/teaching/courses/iafil2425/</loc>
+    <loc>http://localhost:1313/teaching/courses/iafil2425/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/tags/lcp/</loc>
+    <loc>http://localhost:1313/tags/lcp/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/teaching/courses/lc2425/</loc>
+    <loc>http://localhost:1313/teaching/courses/lc2425/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/teaching/courses/lcp2425/</loc>
+    <loc>http://localhost:1313/teaching/courses/lcp2425/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/teaching/theses/</loc>
+    <loc>http://localhost:1313/teaching/theses/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/categories/teaching/</loc>
+    <loc>http://localhost:1313/categories/teaching/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/teaching/</loc>
+    <loc>http://localhost:1313/teaching/</loc>
   </url><url>
-    <loc>https://marco-console.github.io/tags/thesis/</loc>
+    <loc>http://localhost:1313/tags/thesis/</loc>
   </url>
 </urlset>

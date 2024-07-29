@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lcp on Marco Console Personal Page</title>
-    <link>https://marco-console.github.io/tags/lcp/</link>
+    <link>http://localhost:1313/tags/lcp/</link>
     <description>Recent content in Lcp on Marco Console Personal Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <atom:link href="https://marco-console.github.io/tags/lcp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lcp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logica e Modelli di Calcolo.  A.A. 2024/25</title>
-      <link>https://marco-console.github.io/teaching/courses/lc2425/</link>
+      <link>http://localhost:1313/teaching/courses/lc2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/teaching/courses/lc2425/</guid>
+      <guid>http://localhost:1313/teaching/courses/lc2425/</guid>
       <description>Organizzazione Questa pagina si riferisce alla sezione Logica e Modelli di Calcolo del corso Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica. Per informazioni riguardanti il corso in generale è possibile consultare la seguente pagina: Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica&#xA;Docente Marco Console (console+lc at diag dot uniroma1 dot it)&#xA;Link Google Classroom TBD&#xA;Per Chi è Questo Corso Il corso è rivolto agli studenti della laurea triennale in Ingegneria Informatica e Automatica</description>
     </item>
     <item>
       <title>Logica, Modelli di Calcolo e Metodi Probabilistici per l&#39;Informatica.  A.A. 2024/25.</title>
-      <link>https://marco-console.github.io/teaching/courses/lcp2425/</link>
+      <link>http://localhost:1313/teaching/courses/lcp2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/teaching/courses/lcp2425/</guid>
+      <guid>http://localhost:1313/teaching/courses/lcp2425/</guid>
       <description>Organizzazione Il corso è articolato in due sezioni: Logica e Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica. Informazioni relative alle singole sezioni si trovano nelle seguenti pagine.&#xA;Logica e Modelli di Calcolo Metodi Probabilistici per l&amp;rsquo;Informatica Lezioni Martedì, 08.00 - 12.00, Aula 204, Marco Polo Giovedì, 08.00 - 12.00, Aula 204, Marco Polo Nota: Il corso inizierà con la sezione &amp;ldquo;Logica e Metodi di Calcolo&amp;rdquo; e proseguirà con la sezione &amp;ldquo;Metodi Probabilistici per l&amp;rsquo;Informatica&amp;rdquo;</description>
     </item>
   </channel>

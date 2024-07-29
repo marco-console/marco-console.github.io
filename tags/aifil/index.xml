@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aifil on Marco Console Personal Page</title>
-    <link>https://marco-console.github.io/tags/aifil/</link>
+    <link>http://localhost:1313/tags/aifil/</link>
     <description>Recent content in Aifil on Marco Console Personal Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <atom:link href="https://marco-console.github.io/tags/aifil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/aifil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligenza Artificiale I Anno Accademico 2024/25</title>
-      <link>https://marco-console.github.io/teaching/courses/iafil2425/</link>
+      <link>http://localhost:1313/teaching/courses/iafil2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/teaching/courses/iafil2425/</guid>
+      <guid>http://localhost:1313/teaching/courses/iafil2425/</guid>
       <description>Docente Marco Console (console+aifil at diag dot uniroma1 dot it)&#xA;Link Google Classroom TBD&#xA;Lezioni TBD&#xA;Per Chi è Questo Corso Il corso è rivolto agli studenti iscritti al primo anno della laurea triennale in Filosofia e Intelligenza Artificiale&#xA;Prerequisiti Intelligenza Artificiale I è un corso di base. Nessuna nozione strettamente legata alla materia è necessaria per completare con successo il corso. E&amp;rsquo; necessaria, però, una conoscenza di base della programmazione e della nozione di algoritmo.</description>
     </item>
   </channel>

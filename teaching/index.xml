@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching Activities on Marco Console Personal Page</title>
-    <link>http://localhost:1313/teaching/</link>
-    <description>Recent content in Teaching Activities on Marco Console Personal Page</description>
+    <title>Teaching Activities on Marco Console&#39;s Personal Page</title>
+    <link>https://marco-console.github.io/teaching/</link>
+    <description>Recent content in Teaching Activities on Marco Console&#39;s Personal Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marco-console.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligenza Artificiale I Anno Accademico 2024/25</title>
-      <link>http://localhost:1313/teaching/courses/iafil2425/</link>
+      <link>https://marco-console.github.io/teaching/courses/iafil2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/courses/iafil2425/</guid>
+      <guid>https://marco-console.github.io/teaching/courses/iafil2425/</guid>
       <description>Docente Marco Console (console+aifil at diag dot uniroma1 dot it)&#xA;Link Google Classroom TBD&#xA;Lezioni TBD&#xA;Per Chi è Questo Corso Il corso è rivolto agli studenti iscritti al primo anno della laurea triennale in Filosofia e Intelligenza Artificiale&#xA;Prerequisiti Intelligenza Artificiale I è un corso di base. Nessuna nozione strettamente legata alla materia è necessaria per completare con successo il corso. E&amp;rsquo; necessaria, però, una conoscenza di base della programmazione e della nozione di algoritmo.</description>
     </item>
     <item>
       <title>Logica e Modelli di Calcolo.  A.A. 2024/25</title>
-      <link>http://localhost:1313/teaching/courses/lc2425/</link>
+      <link>https://marco-console.github.io/teaching/courses/lc2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/courses/lc2425/</guid>
-      <description>Organizzazione Questa pagina si riferisce alla sezione Logica e Modelli di Calcolo del corso Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica. Per informazioni riguardanti il corso in generale è possibile consultare la seguente pagina: Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica&#xA;Docente Marco Console (console+lc at diag dot uniroma1 dot it)&#xA;Link Google Classroom TBD&#xA;Per Chi è Questo Corso Il corso è rivolto agli studenti della laurea triennale in Ingegneria Informatica e Automatica</description>
+      <guid>https://marco-console.github.io/teaching/courses/lc2425/</guid>
+      <description>Organizzazione Questa pagina si riferisce alla sezione Logica e Modelli di Calcolo del corso Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica. Per informazioni riguardanti il corso in generale è possibile consultare la seguente pagina: Logica, Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica&#xA;Docente Marco Console (console+lc at diag dot uniroma1 dot it)&#xA;Link Google Classroom https://classroom.google.com/c/NzEwMzkxMDE5NzI1?cjc=4f6gm3z&#xA;Per Chi è Questo Corso Il corso è rivolto agli studenti della laurea triennale in Ingegneria Informatica e Automatica</description>
     </item>
     <item>
       <title>Logica, Modelli di Calcolo e Metodi Probabilistici per l&#39;Informatica.  A.A. 2024/25.</title>
-      <link>http://localhost:1313/teaching/courses/lcp2425/</link>
+      <link>https://marco-console.github.io/teaching/courses/lcp2425/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/courses/lcp2425/</guid>
+      <guid>https://marco-console.github.io/teaching/courses/lcp2425/</guid>
       <description>Organizzazione Il corso è articolato in due sezioni: Logica e Modelli di Calcolo e Metodi Probabilistici per l&amp;rsquo;Informatica. Informazioni relative alle singole sezioni si trovano nelle seguenti pagine.&#xA;Logica e Modelli di Calcolo Metodi Probabilistici per l&amp;rsquo;Informatica Lezioni Martedì, 08.00 - 12.00, Aula 204, Marco Polo Giovedì, 08.00 - 12.00, Aula 204, Marco Polo Nota: Il corso inizierà con la sezione &amp;ldquo;Logica e Metodi di Calcolo&amp;rdquo; e proseguirà con la sezione &amp;ldquo;Metodi Probabilistici per l&amp;rsquo;Informatica&amp;rdquo;</description>
     </item>
     <item>
       <title>Student Projects and Thesis Work</title>
-      <link>http://localhost:1313/teaching/theses/</link>
+      <link>https://marco-console.github.io/teaching/theses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/theses/</guid>
+      <guid>https://marco-console.github.io/teaching/theses/</guid>
       <description>Part of my role as a teacher involves supervising student projects and thesis work. I greatly value this activity as it allows me to collaborate closely with students, guiding them as they apply their knowledge, develop new skills, and contribute to meaningful research. Additionally, a research-oriented thesis is also a great opportunity to build enough knowledge to start a PhD.&#xA;Possible topics to explore together are the following (in no particular order):</description>
     </item>
   </channel>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lsdm on Marco Console&#39;s Personal Page</title>
+    <link>https://marco-console.github.io/tags/lsdm/</link>
+    <description>Recent content in Lsdm on Marco Console&#39;s Personal Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <atom:link href="https://marco-console.github.io/tags/lsdm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Integration.  A.Y. 2025/26</title>
+      <link>https://marco-console.github.io/teaching/courses/infint2526/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://marco-console.github.io/teaching/courses/infint2526/</guid>
+      <description>Organization This course is a section of the course &amp;ldquo;Large Scale Data Management&amp;rdquo;.&#xA;When and Where Thursday, 14.00 - 17.00, Room A4, Via Ariosto, 25 Friday, 14.00 - 16.00, Room A4, Via Ariosto, 25 Teacher Marco Console (console+infint at diag dot uniroma1 dot it) Expected Audience The course is part of the second year of the Master&amp;rsquo;s Deegre in Engineering in Computer Science at Sapienza, University of Rome.&#xA;Course goals Information integration is the problem of combining together heterogeneous data residing at different sources and providing the user with a unified view of these data.</description>
+    </item>
+  </channel>
+</rss>

@@ -9,13 +9,6 @@
     <copyright>This is a customized copyright.</copyright>
     <atom:link href="https://marco-console.github.io/categories/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curriculum Vitae Highlights</title>
-      <link>https://marco-console.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://marco-console.github.io/cv/</guid>
-      <description>Appointments From Jul, 1, 2025 to date: Professore Associato (Associate Professor). Dipartimento di Ingegneria Informatica, Automatica e Gestionale. Sapienza, University of Rome From Jun, 2022 to Jun, 2025: Ricercatore a Tempo Determinato di Categoria B (Tenured Assistant Professor). Dipartimento di Ingegneria Informatica, Automatica e Gestionale. Sapienza, University of Rome From 2020 to Jun, 2022: Ricercatore a Tempo Determinato di Categoria A (Non-Tenured Assistant Professor). Dipartimento di Ingegneria Informatica, Automatica e Gestionale.</description>
-    </item>
-    <item>
       <title>Information Integration.  A.Y. 2025/26</title>
       <link>https://marco-console.github.io/teaching/courses/infint2526/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -76,14 +69,14 @@
       <link>https://marco-console.github.io/teaching/theses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marco-console.github.io/teaching/theses/</guid>
-      <description>Part of my role as a teacher involves supervising student projects and thesis work. I greatly value this activity as it allows me to collaborate closely with students, guiding them as they apply their knowledge, develop new skills, and contribute to meaningful research. Additionally, a research-oriented thesis is also a great opportunity to acquire enough knowledge to start a PhD.&#xA;Possible topics to explore together are the following (in no particular order):</description>
+      <description>Supervising student projects and thesis work is one of the aspects of teaching I value most. It offers an opportunity to work closely with students as they apply their knowledge, develop new skills, and contribute to meaningful research. A research-oriented thesis can also provide an excellent foundation for pursuing a PhD.&#xA;Possible topics for student projects and theses include:&#xA;Data-Centric Artificial Intelligence (see this page for additional information) Neuro-Symbolic Artificial Intelligence (see this page for additional information) Information Integration and Ontology-Based Data Management Database Theory and Expressive Power of Formal Languages I am happy to provide background material and discuss possible thesis directions</description>
     </item>
     <item>
       <title>Teaching Activities</title>
       <link>https://marco-console.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://marco-console.github.io/teaching/</guid>
-      <description>Teaching Activities This page contains information about my teaching activities.&#xA;Theses Part of my role as a teacher, and possibly the one I like the most, is about supervising student projects and thesis work. If you are interested in working with me, please take some time to check out the following page: THESES PAGE&#xA;Courses Information about my courses can be found in the following pages. For courses in Italian, the page is in Italian only.</description>
+      <description>Teaching Activities This page contains information about my teaching activities.&#xA;Theses One of the aspects of teaching I value most is supervising student projects and thesis work. If you are interested in working with me, please have a look at the following page:: THESES PAGE&#xA;Courses Information about my courses is available on the following pages. Pages for courses taught in Italian are written in Italian.&#xA;Academic Year 2025/26 Logica, Modelli di Calcolo e Metodi Probabilistici 2025/26 Large Scale Data Management 2025/26 Intelligenza Artificiale 1 2025/26 Academic Year 2024/25 Logica, Modelli di Calcolo e Metodi Probabilistici 2024/25 Intelligenza Artificiale 1 2024/25 Academic Year 2023/24 Information Integration 2023/24 Intelligenza Artificiale 1 2023/24 Academic Year 2022/23 Information Integration 2022/23 Intelligenza Artificiale 1 2022/23 Academic Year 2021/22 Information Integration 2021/22 Basi di Dati 2021/22 Academic Year 2020/21 Information Integration 2020/21 Laboratorio di Architetture Software e Sicurezza Informatica 2020/21 </description>
     </item>
   </channel>
 </rss>
